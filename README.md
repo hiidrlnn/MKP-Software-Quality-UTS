@@ -29,8 +29,4 @@ Repository ini digunakan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata k
 ## Tools yang digunakan
 - GitHub (Version Control & Dokumentasi)
 - Visual Studio Code
-- Browser (Chrome/Edge)
-
----
-
-## Struktur Project
+- Browser (Chrome)
