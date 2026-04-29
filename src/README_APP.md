@@ -5,7 +5,7 @@ Aplikasi ini adalah sistem informasi rental PlayStation berbasis web yang diguna
 
 ---
 
-## 🛠 Teknologi
+## Teknologi
 - Framework: Laravel
 - Frontend: Tailwind CSS
 - Database: MySQL
